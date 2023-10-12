@@ -1,0 +1,107 @@
+.page-background{
+    background-color: darkblue;
+    height: 100vh;
+    padding-top: 30px;
+    padding-left: 170px;
+    padding-right: 170px;
+    
+}
+
+.left-section-heading{
+    font-size: 33px;
+    font-weight: 500;
+    color: white;
+}
+
+.left-section-desc{
+    color: white;
+    font-size: 15px;
+}
+
+.left-section-button{
+    color: white;
+    background-color:deeppink;
+    border-width: 0px;
+    border-radius: 25px;
+    width: 130px;
+    height: 45px;
+    text-align: center;
+
+}
+
+.right-section{
+    background-color: white;
+    padding: 30px
+}
+
+.input-style{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    border-color:darkgrey;
+    width: 100%;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    height: 45px;
+}
+
+.right-section-heading{
+    color:navy;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+.right-section-signin-button{
+    color: white;
+    width: 100%;
+    background-color:darkblue;
+    border-width: 0px;
+    border-radius: 25px;
+    text-align: center;
+    height: 45px;
+    margin-bottom: 20px;
+}
+
+.right-section-twitter-button{
+    color: white;
+    width: 100%;
+    background-color:deepskyblue;
+    border-width: 0px;
+    border-radius: 25px;
+    text-align: center;
+    height: 45px;
+    margin-bottom: 20px;
+
+}
+
+.signin{
+    color:deepskyblue;
+}
+
+.right-section-para{
+    color:darkgray;
+    font-size: 15px;
+}
+
+.hr-style{
+    margin-left: 0;
+    width: 175px;
+    
+}
+.span-style{
+    color:darkgrey;
+    margin-right: 10px;
+}
+
+.purchase-style{
+    color: white;
+    background-color:deeppink;
+    border-width: 0px;
+    border-radius: 25px;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+
+}
